@@ -1,0 +1,4 @@
+-- Add faye.js to CDN
+-- Include faye.js into the app
+-- Create a public faye server
+-- Add token to publish
